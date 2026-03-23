@@ -1,9 +1,9 @@
-# 🚀 Mini Projects Hub
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8cfd5dee-d3fe-4077-8ccb-b3bfa60ac8ec" /><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8cfd5dee-d3fe-4077-8ccb-b3bfa60ac8ec" /># 🚀 Mini Projects Hub
 
 Welcome to my collection of small but meaningful projects!
 This repository is where I build, experiment, and improve — one project at a time.
 
-## 🧠 About This Repo
+## 📌 About This Repo
 
 This repo contains a variety of mini projects focused on:
 
@@ -11,7 +11,7 @@ This repo contains a variety of mini projects focused on:
 * Exploring new ideas and technologies
 * Building consistency as a developer
 
-## 🛠️ Tech Stack
+## 🔥 Tech Stack
 
 Depending on the project, I work with:
 
